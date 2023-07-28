@@ -38,7 +38,7 @@ venv\Scripts\deactivate
 
 <hr>
 
-Screenshot of example with the IP of `europa.eu`:
+Screenshot of example run with the IP of `europa.eu`:
 
 <img src="output.png" width=50% height=50%>
 
